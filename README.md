@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4C1D95,50:7C3AED,100:2563EB&text=Abdul%20Ahad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="https://github.com/ahad74-art">
+<a href="https://github.com/Abdul-Ahad74">
 <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" />
 </a>
 
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://github.com/ahad74-art">
+<a href="https://github.com/Abdul-Ahad74">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
 </a>
 
@@ -37,7 +37,6 @@
 
 </div>
 
----
 
 # About
 
@@ -333,7 +332,6 @@ Designing and delivering full-stack applications from requirements gathering thr
 
 # Current Focus
 
-```yaml
 learning:
   - Advanced Backend Architecture
   - System Design
