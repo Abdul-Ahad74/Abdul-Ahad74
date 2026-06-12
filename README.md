@@ -290,11 +290,11 @@ Designing and delivering full-stack applications from requirements gathering thr
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahad74-art&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdul-Ahad74&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahad74-art&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Ahad74&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahad74-art&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Ahad74&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -304,7 +304,7 @@ Designing and delivering full-stack applications from requirements gathering thr
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahad74-art&theme=algolia&no-frame=true&margin-w=15&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Abdul-Ahad74&theme=algolia&no-frame=true&margin-w=15&row=1" />
 
 </div>
 
@@ -314,7 +314,7 @@ Designing and delivering full-stack applications from requirements gathering thr
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahad74-art&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Ahad74&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -368,11 +368,11 @@ open_to:
 <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Ahad-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://github.com/ahad74-art">
+<a href="https://github.com/Abdul-Ahad74">
 <img src="https://img.shields.io/badge/GitHub-ahad74--art-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://github.com/ahad74-art">
+<a href="https://github.com/Abdul-Ahad74t">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge" />
 </a>
 
