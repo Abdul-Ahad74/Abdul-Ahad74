@@ -354,9 +354,7 @@ open_to:
   - Internships
   - Freelance Projects
   - Open Source Collaboration
-````
 
----
 
 # Connect
 
@@ -389,20 +387,3 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4C1D95,50:7C3AED,100:2563EB"/>
 
 </div>
-```
-
-
-<!--
-**Abdul-Ahad74/Abdul-Ahad74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
