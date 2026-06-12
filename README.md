@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://linkedin.com/in/abdul-ahad">
+<a href="https://www.linkedin.com/in/abdul-ahad-b22693313">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
